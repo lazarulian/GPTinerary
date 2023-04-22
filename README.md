@@ -13,6 +13,34 @@ GPTinerary is a web application designed to effortlessly generate travel itinera
 - Seamless integration with popular calendar applications
 - User-friendly interface for hassle-free itinerary management
 
+### Example
+
+For instance, you can convert something like this into a ICS file to be imported into GCal, Apple Calendar, or Outlook!
+
+```
+Date (04/21/2023):
+11:00 AM - 11:30 AM • Arrival at Dublin Airport • Land at Dublin Airport.
+11:30 AM - 12:00 PM • Airport to Hostel • Take the Airlink Express 747 bus to O'Connell Street (Abbey Street stop) and walk to Abbey Court Hostel.
+12:00 PM - 12:30 PM • Check-in at Hostel • Check-in at Abbey Court Hostel and drop off your luggage.
+12:30 PM - 1:30 PM • Lunch • Have lunch at The Woollen Mills, a local restaurant offering Irish cuisine.
+1:30 PM - 3:00 PM • Trinity College • Visit Trinity College and the Book of Kells exhibition.
+3:00 PM - 4:30 PM • Dublin Castle • Explore Dublin Castle and its surrounding gardens.
+4:30 PM - 6:00 PM • Temple Bar • Walk through Temple Bar, Dublin's cultural and entertainment quarter.
+6:00 PM - 8:00 PM • Dinner • Have dinner at Fade Street Social, a popular restaurant in the city.
+8:00 PM - 10:00 PM • Irish Music • Enjoy a traditional Irish music session at The Cobblestone pub.
+
+Date (04/22/2023):
+9:00 AM - 10:00 AM • Breakfast • Have breakfast at Queen of Tarts, a local café known for its pastries.
+10:00 AM - 11:00 AM • St. Stephen's Green • Stroll through St. Stephen's Green, a beautiful city park.
+11:00 AM - 12:30 PM • National Museum • Visit the National Museum of Ireland - Archaeology.
+12:30 PM - 1:30 PM • Lunch • Have lunch at Cornucopia, a vegetarian and vegan-friendly restaurant.
+1:30 PM - 2:00 PM • Ha'Penny Bridge • Stop by the iconic Ha'Penny Bridge and snap a photo.
+2:00 PM - 2:30 PM • Hostel Checkout • Head back to Abbey Court Hostel to pick up your luggage and check out.
+2:30 PM - 3:00 PM • Hostel to Airport • Take the Airlink Express 747 bus from O'Connell Street (Abbey Street stop) back to Dublin Airport.
+3:00 PM - 6:15 PM • Airport Lounge • Relax at one of the airport lounges before your flight, such as the 51st & Green Lounge (Terminal 2) or the Dublin Airport Executive Lounge (Terminal 1).
+6:15 PM - 6:15 PM • Departure • Depart from Dublin Airport.
+```
+
 ## Getting Started
 
 These instructions will help you set up and run the GPTinerary project on your local machine for development and testing purposes.
