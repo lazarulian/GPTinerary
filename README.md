@@ -1,5 +1,7 @@
 # GPTinerary
 
+![GPTinerary](/public/static/images/Press/GPTinerary.jpg)
+
 GPTinerary is a web application designed to effortlessly generate travel itineraries using ChatGPT and convert them into universally compatible ICS calendar files. With GPTinerary, users can easily manage their travel schedules by importing generated itineraries directly into their favorite calendar applications, such as Google Calendar, Apple Calendar, or Microsoft Outlook.
 
 ## Features
